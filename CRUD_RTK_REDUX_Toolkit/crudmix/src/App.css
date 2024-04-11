@@ -1,0 +1,21 @@
+
+  .detail input{
+    width: 100% !important;
+  }
+  .bg{
+    background-image: url(./image/blue.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   margin: 0 !important;
+   padding: 0 !important;
+  height: 100vh;
+  }
+  .ok{
+    width: 150px !important;
+    text-align: center;
+  }
+  .ok2{
+    width: 100px !important;
+    text-align: center;
+  }
